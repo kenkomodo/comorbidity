@@ -1,10 +1,6 @@
 # comorbidity (development version)
 
-<<<<<<< HEAD
-* Added the US-specific Charlson CDMF algorithm for ICD-9-CM and ICD-10-CM scores, with categories and score weighting based on Glasheen _et al_. (2019) (@kenkomodo)
-=======
 * Added the US-specific CDMF Charlson algorithm for ICD-9-CM and ICD-10-CM scores, with categories and score weighting based on [Glasheen _et al_. (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6684052) (#79, @kenkomodo);
->>>>>>> 2198738 (Update NEWS.md)
 
 # comorbidity 1.1.0
 
